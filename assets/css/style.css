@@ -1,0 +1,57 @@
+html {
+    overflow-y:scroll;
+}
+body {	
+    width: 100%;
+    height: 100%;
+    background: url(../images/background.jpeg);
+}
+h1.gifTasticle {
+	font-family: 'Lobster';
+	font-size: 100px;
+	color: purple;
+	
+	padding: 20px 10px 10px 20px;	
+}
+.giphyHeaderRow {
+	background-color: black;
+	margin-bottom: 0px;
+	margin-top: 20px;
+	
+	
+	
+}
+.cityImg {
+	display: inline-block;
+	padding: 25px;
+	
+}
+img {
+	height: 200px;
+	width: 265px;	
+}
+.cover {
+	object-fit: cover;
+}
+.giphyImagesRow {
+	color: rgb(166, 255, 255);
+	background-color: blue;
+
+}
+.giphyButtonsRow {
+	background-color: black;
+	padding: 20px 10px;	
+}
+.giphyButton {
+	width: 140px;
+	margin: 10px;
+}
+.addButton {
+	background-color:purple;
+	padding: 15px;
+}
+
+.rating {
+	font-family: 'Turret Road', cursive;
+	font-size: 20px;
+}
